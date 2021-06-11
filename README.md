@@ -7,7 +7,7 @@
   <a href="mailto:ilkerogtc@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ilker-ogutcu/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://twitter.com/ilkerogtc" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-  <a href="https://instagram.com/ilkerogtc" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
 </p>
 
 <img align ="right" src = "https://pbs.twimg.com/profile_images/1278344911847223297/k1ginRMI_400x400.jpg" width="250" height="250">
