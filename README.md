@@ -1,6 +1,3 @@
-<p align="center">
-   <img src="https://64.media.tumblr.com/2b67d3c84b97e979b4d690a58c43ac61/tumblr_ocnd9eT2fP1qe8lb8o1_500.gif" alt="Elliot GIF" width="600" height="300">
-</p>
 
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
 <p>
