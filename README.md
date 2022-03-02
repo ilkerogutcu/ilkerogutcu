@@ -9,7 +9,7 @@
 
 <img align ="right" src = "https://pbs.twimg.com/profile_images/1278344911847223297/k1ginRMI_400x400.jpg" width="250" height="250">
 
-- 🌱 I’m currently learning Backend Development,MicroServices and IoT Development 
+- 🌱 I’m currently learning Backend Development, MicroServices
 - 📫 How to reach me: ilkerogtc@gmail.com
 <br></br>
 
